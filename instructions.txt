@@ -1,0 +1,11 @@
+1. create account at github.com
+2. create new repository
+3. clone repository in linux
+4. create and edit text file w/ corresponding instructions
+5. stage, commit, and push file to github
+6. edit file on github, commit changes using web interface
+7. return to linux and issue pull command
+8. delete file
+9. use git checkout to restore deleted file
+10. follow tutorial to enable access to repo over SSH
+
